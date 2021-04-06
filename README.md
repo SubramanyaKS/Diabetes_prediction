@@ -1,7 +1,26 @@
 # Diabetes_prediction
-Using various Machine Learning models to determine whether a person is going to buy a new product or not.
+Using various Machine Learning models to determine whether a person is diabetic or not using various features.
 
 Since it is a categorial dataset.So we use various classification supervised machine learning algorithm.
+
+# Dataset description
+Pregnancies: Number of times pregnant
+
+Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
+
+BloodPressure: Diastolic blood pressure (mm Hg)
+
+SkinThickness: Triceps skin fold thickness (mm)
+
+Insulin: 2-Hour serum insulin (mu U/ml)
+
+BMI: Body mass index (weight in kg/(height in m)2)
+
+DiabetesPedigreeFunction: Diabetes pedigree function (a function which scores likelihood of diabetes based on family history)
+
+Age: Age of the person (years)
+
+Outcome: Class variable (0 if non-diabetic, 1 if diabetic)
 
 ## K Nearest Neighbors.
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
@@ -25,3 +44,40 @@ Random Forest is a popular machine learning algorithm that belongs to the superv
 www.javatpoint.com/
 
 www.wikipedia.com/
+
+## zTraining and Testing Accuracy of various machine learning algorithm to social network dataset.
+
+For Decision tree
+
+  Training Accuracy  -  100.0%
+  Testing Accuracy   -  91.0%
+  
+For Logistic Regression
+
+  Training Accuracy  -  82.33.0%
+  Testing Accuracy   -  89.0%
+  
+For Naive Bayes
+
+  Training Accuracy  -  88.33%
+  Testing Accuracy   -  90.0%
+  
+For K- Nearest Neighbour 
+
+  Training Accuracy  -  91.0%
+  Testing Accuracy   -  93.0%
+  
+For Support Vector Machine
+
+  Training Accuracy  -  82.33%
+  Testing Accuracy   -  90.0%
+  
+For Random Forest
+
+  Training Accuracy  -  99.0%
+  Testing Accuracy   -  92.0%
+  
+For Kernel Support Vector Machine
+
+  Training Accuracy  -  91.33%
+  Testing Accuracy   -  93.0%
