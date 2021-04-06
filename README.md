@@ -50,34 +50,36 @@ www.wikipedia.com/
 For Decision tree
 
   Training Accuracy  -  100.0%
-  Testing Accuracy   -  91.0%
+  Testing Accuracy   -  69.35%
   
 For Logistic Regression
 
-  Training Accuracy  -  82.33.0%
-  Testing Accuracy   -  89.0%
+  Training Accuracy  -  82.02.0%
+  Testing Accuracy   -  73.39%
   
 For Naive Bayes
 
-  Training Accuracy  -  88.33%
-  Testing Accuracy   -  90.0%
+  Training Accuracy  -  79.39%
+  Testing Accuracy   -  71.77%
   
 For K- Nearest Neighbour 
 
-  Training Accuracy  -  91.0%
-  Testing Accuracy   -  93.0%
+  Training Accuracy  -  84.44%
+  Testing Accuracy   -  73.39%
   
 For Support Vector Machine
 
-  Training Accuracy  -  82.33%
-  Testing Accuracy   -  90.0%
+  Training Accuracy  -  82.22%
+  Testing Accuracy   -  73.39%
   
 For Random Forest
 
-  Training Accuracy  -  99.0%
-  Testing Accuracy   -  92.0%
+  Training Accuracy  -  97.98%
+  Testing Accuracy   -  70.97%
   
 For Kernel Support Vector Machine
 
-  Training Accuracy  -  91.33%
-  Testing Accuracy   -  93.0%
+  Training Accuracy  -  86.67%
+  Testing Accuracy   -  70.97%
+
+From this after removing outliers KNN performs well.
