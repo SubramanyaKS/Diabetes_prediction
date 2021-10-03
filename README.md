@@ -3,7 +3,7 @@ Using various Machine Learning models to determine whether a person is diabetic 
 
 Since it is a categorial dataset.So we use various classification supervised machine learning algorithm.
 
-# Dataset description
+## Dataset description
 Pregnancies: Number of times pregnant
 
 Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test
