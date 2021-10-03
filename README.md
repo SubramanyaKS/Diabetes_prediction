@@ -54,7 +54,7 @@ For Decision tree
   
 For Logistic Regression
 
-  Training Accuracy  -  82.02.0%
+  Training Accuracy  -  82.02%
   Testing Accuracy   -  73.39%
   
 For Naive Bayes
