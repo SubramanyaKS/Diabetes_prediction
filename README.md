@@ -83,3 +83,8 @@ For Kernel Support Vector Machine
   Testing Accuracy   -  70.97%
 
 From this after removing outliers KNN performs well.
+
+
+
+
+If you like my work ⭐ the repository.
