@@ -85,6 +85,7 @@ For Kernel Support Vector Machine
 From this after removing outliers KNN performs well.
 
 
-
+---
 
 If you like my work ⭐ the repository.
+Thank You with ❤️ Subramanya K S.
